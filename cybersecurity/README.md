@@ -11,3 +11,5 @@ pip install PyQt5 PyQtWebEngine
 ```
 python vulnerability_report_gui.py
 ```
+#### To-Do
+- Fix image scaling during PDF creation.
